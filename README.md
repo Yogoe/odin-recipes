@@ -2,8 +2,10 @@
 This is a simple website project featuring some of my favorite recipes found on Allrecipes.com. I made this to demonstrate skills I have been learning on The Odin Project.
 ## Skills demonstrated so far
 - html boilerplate
-- html tags and elements including (but not limited to):
+- html tags and elements:
     - headers
+    - paragraphs
+    - semantic Bold and Italics
     - links
     - images
     - ordered and unordered list
