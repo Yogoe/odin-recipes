@@ -9,7 +9,13 @@ This is a simple website project featuring some of my favorite recipes found on 
     - links
     - images
     - ordered and unordered list
+    - containers
 - Git Clone, Add, Commit, and Push
+- CSS styling
+    - text coloring
+    - background coloring
+    - font families
+    - cascade ordering
 ## Links to recipes used in this project
 - [One-Pot Spaghetti with Meat Sauce](https://www.allrecipes.com/recipe/269004/one-pot-spaghetti-with-meat-sauce/)
 - [Restaurant-Style Buffalo Chicken Wings](https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/)
