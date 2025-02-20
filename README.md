@@ -5,17 +5,18 @@ This is a simple website project featuring some of my favorite recipes found on 
 - html tags and elements:
     - headers
     - paragraphs
-    - semantic Bold and Italics
+    - semantic and non-semantic Bold and Italics
     - links
     - images
     - ordered and unordered list
     - containers
 - Git Clone, Add, Commit, and Push
 - CSS styling
-    - text coloring
-    - background coloring
-    - font families
+    - text and background coloring
+    - font sizing and families
     - cascade ordering
+    - usage of selectors
+    - box modeling using margins, padding, borders and border box sizing
 ## Links to recipes used in this project
 - [One-Pot Spaghetti with Meat Sauce](https://www.allrecipes.com/recipe/269004/one-pot-spaghetti-with-meat-sauce/)
 - [Restaurant-Style Buffalo Chicken Wings](https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/)
