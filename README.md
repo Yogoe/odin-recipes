@@ -10,13 +10,16 @@ This is a simple website project featuring some of my favorite recipes found on 
     - images
     - ordered and unordered list
     - containers
-- Git Clone, Add, Commit, and Push
 - CSS styling
-    - text and background coloring
-    - font sizing and families
+    - text and background coloring and box shadows
+    - font sizing, families, and styles
     - cascade ordering
     - usage of selectors
     - box modeling using margins, padding, borders and border box sizing
+    - display block, inline, and inline-block
+    - content alignment
+    - border radius
+- Git Clone, Add, Commit, and Push
 ## Links to recipes used in this project
 - [One-Pot Spaghetti with Meat Sauce](https://www.allrecipes.com/recipe/269004/one-pot-spaghetti-with-meat-sauce/)
 - [Restaurant-Style Buffalo Chicken Wings](https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/)
