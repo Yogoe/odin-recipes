@@ -28,6 +28,7 @@ body a {
     font-size: 72px;
     padding: 2.5rem 0;
     color: #d8ab61;
+    font-style: italic;
 }
 
 .navbar {
@@ -76,4 +77,34 @@ ol {
 
 .recipe li {
     margin: 1em 6em;
+}
+
+#main {
+    text-align: center;
+}
+
+#main li {
+    display: inline-block;
+    background-color: #454453;
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    border-radius: 2px;
+    box-shadow: 4px 4px 12px #000;
+}
+
+#main img {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 2px;
+}
+
+#main a {
+    display: block;
+    margin-top: 12px;
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: 700;
 }
